@@ -1,0 +1,32 @@
+ {"promos": [
+	{
+		"id": 1,
+	"image": "images/coin.png",
+	"title": "Feed",
+	"description": "Healthy",
+	"price": 250
+	},
+	{
+		"id": 2,
+	"image": "images/refer.png",
+	"title": "Health care",
+	"description": "Health care",
+	"price": 250
+	},
+	{
+		"id": 3,
+	"image": "images/rating.png",
+	"title": "Machine & \n Equip",
+	"description": "Healthy",
+	"price": 250
+	},
+	{
+		"id": 3,
+	"image": "images/wallet.png",
+	"title": "Machine & \n Equip",
+	"description": "Healthy",
+	"price": 250
+	}
+
+]
+}

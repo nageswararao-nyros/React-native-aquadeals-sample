@@ -1,0 +1,24 @@
+{
+	"Adbackgrounds": [
+		{
+			"type": "Imported",
+			"image": "https://www.aquadeals.in/admin/assets//images/deal_offer_imgs/backgrounds/XXXHDPI/20180726151001105592.png"
+		},
+		{
+			"type": "Organic",
+			"image": "https://www.aquadeals.in/admin/assets//images/deal_offer_imgs/backgrounds/XXXHDPI/Organic.png"
+		},
+		{
+			"type": "CAA Approved",
+			"image": "https://www.aquadeals.in/admin/assets//images/deal_offer_imgs/backgrounds/XXXHDPI/20180131165555674015.png"
+		},
+		{
+			"type": "AD Guarantee",
+			"image": "https://www.aquadeals.in/admin/assets//images/deal_offer_imgs/backgrounds/XXXHDPI/20180131165646403609.png"
+		},
+		{
+			"type": "AD Guarantee",
+			"image": "https://www.aquadeals.in/admin/assets//images/deal_offer_imgs/backgrounds/XXXHDPI/free_shipping.png"
+		}
+	]
+}

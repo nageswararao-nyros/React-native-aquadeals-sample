@@ -1,0 +1,28 @@
+ {"stores": [
+	{
+		"id": 1,
+	"image": "images/ad1.png",
+	"title": "IMPORTED"
+	},
+	{
+		"id": 2,
+	"image": "images/ad2.png",
+	"title": "ORGANIC"
+	},
+	{
+		"id": 3,
+	"image": "images/ad3.png",
+	"title": "CAA APPROVED"
+	},
+	{
+		"id": 4,
+	"image": "images/ad4.png",
+	"title": "AD GUARANTEE"
+	},
+	{
+		"id": 5,
+	"image": "images/ad5.png",
+	"title": "FREE SHIPMENTS"
+	}
+]
+}

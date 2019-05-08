@@ -1,0 +1,59 @@
+{"trendStores": [
+	{
+		"id": 1,
+	"image": "images/trend1.jpg",
+	"title": "Healthy",
+	"description": "Healthy",
+	"price": 250
+	},
+	{
+		"id": 2,
+	"image": "images/trend2.jpg",
+	"title": "Feed",
+	"description": "Healthy",
+	"price": 250
+	},
+	{
+		"id": 3,
+	"image": "images/trend3.jpg",
+	"title": "Machinery",
+	"description": "Healthy",
+	"price": 250
+	},
+	{
+		"id": 4,
+	"image": "images/trend4.jpg",
+	"title": "Medicine",
+	"description": "Healthy",
+	"price": 250
+	},
+	{
+		"id": 5,
+	"image": "images/trend4.jpg",
+	"title": "Medicine",
+	"description": "Healthy",
+	"price": 250
+	},
+	{
+		"id": 6,
+	"image": "images/trend4.jpg",
+	"title": "Medicine",
+	"description": "Healthy",
+	"price": 250
+	},
+	{
+		"id": 7,
+	"image": "images/trend4.jpg",
+	"title": "Medicine",
+	"description": "Healthy",
+	"price": 250
+	},
+	{
+		"id": 8,
+	"image": "images/trend4.jpg",
+	"title": "Medicine",
+	"description": "Healthy",
+	"price": 250
+	},
+]
+}

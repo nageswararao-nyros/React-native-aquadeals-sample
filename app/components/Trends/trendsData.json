@@ -1,0 +1,25 @@
+ {"trends": [
+	{
+		"id": 1,
+	"image": "images/tuna.png",
+	"title": "Feed",
+	"description": "Healthy",
+	"price": 250
+	},
+	{
+		"id": 2,
+	"image": "images/health.png",
+	"title": "Health care",
+	"description": "Health care",
+	"price": 250
+	},
+	{
+		"id": 3,
+	"image": "images/aerator.png",
+	"title": "Machine & \n Equip",
+	"description": "Healthy",
+	"price": 250
+	},
+
+]
+}

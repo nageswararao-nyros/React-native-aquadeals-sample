@@ -1,0 +1,22 @@
+ {
+ 	
+ "brands": [
+	{
+		"id": 1,
+	"image": "images/intas.png",
+	},
+	{
+		"id": 2,
+	"image": "images/synergy.png",
+	},
+	{
+		"id": 3,
+	"image": "images/generic.png",
+	},
+	{
+		"id": 4,
+	"image": "images/bayer.png",
+	},
+
+  ]
+}
